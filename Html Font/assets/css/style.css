@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#box-models div {
+    /* width: 20rem;
+    height: 100vh; */
+    background-color: red;
+    margin-bottom: 50px;
+
+    height: 200px;
+    overflow: auto;
+    /* text-overflow: ; */
+
+    /* height: 100px;
+    width: 100px; */
+    /* overflow: auto hidden; */
+    /* overflow-y: auto; */
+    /* overflow: auto; */
+
+
+    /* font-size: .5em; */
+}
+
+
+#box-models  {
+    /* width: 50%; */
+
+    /* max-width: 800px; */
+
+
+    /* display: inline-block; */
+
+    min-width: 300px;
+    /* max-width: 800px; */
+
+    height: 100px;
+
+    /* min-height: 300px; */
+
+    width: 300px;
+
+    /* height: 200px; */
+
+    /* max-width: 200px; */
+
+    background-color: red;
+}
+#box-models span{
+    /* width: 600px; */
+    display: inline-block;
+    /* ov */
+    /* width: 50%; */
+
+    /* width: ; */
+
+    /* background-color: aqua;
+
+    
+    max-width: 200px; */
+}
+
+
+#box-models .second-item p {
+    font-size: 32px;
+    font-weight: bold;
+
+}
+#box-models .second-item p span {
+    font-style: italic;
+    text-decoration: underline;
+
+}
+
+/* #box-models .second-item {
+    /* width: 20rem; */
+/* } */ 
